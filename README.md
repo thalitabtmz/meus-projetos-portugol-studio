@@ -1,2 +1,2 @@
 # meus-projetos-portugol-studio
-Essa pasta será usada para atividades do Portugol.
+Essa massa será usada para atividades do Portugol.
